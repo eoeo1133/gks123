@@ -30,7 +30,7 @@ public class Main2Activity extends AppCompatActivity {
                     finish();
             }
             else{
-                    Toast.makeText(Main2Activity.this,)
+                    Toast.makeText(Main2Activity.this, "아이디랑 비번 틀림",Toast.LENGTH_LONG).show();
                 }
         }
 
